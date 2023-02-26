@@ -5,4 +5,4 @@ This Regex tutorial will illustrate and explain how regular expressions or regue
 
 ## Links
 GitHubgist
-<script src="https://gist.github.com/Cobayomi/3ffcb7c069eb4563b4550407a3ad84dd.js"></script>
+https://gist.github.com/Cobayomi/3ffcb7c069eb4563b4550407a3ad84dd
